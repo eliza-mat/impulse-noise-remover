@@ -1,4 +1,4 @@
-# impulsive-noise-removal
+# impulsive-noise-remover
 Image de-noising by various filters for different types of noise
 
 These programs reduce noise from images using the following filters:
